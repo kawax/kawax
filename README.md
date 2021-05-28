@@ -5,8 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawax&hide=Java,XSLT">
 </a>
 
-- https://lapras.com/public/R4VYMSP
-- https://invokable.github.io/
+- https://invokable.net/
 
 <!--
 **kawax/kawax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
