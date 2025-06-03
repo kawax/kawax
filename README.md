@@ -7,7 +7,7 @@
 </a>
 -->
 
-- https://invokable.net/
+- https://github.com/invokable
 
 <!--
 **kawax/kawax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
